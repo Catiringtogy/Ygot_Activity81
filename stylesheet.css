@@ -1,0 +1,162 @@
+/* CSS Styles */
+
+
+body {
+    background-color: #172442;
+    color: #e2e8f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 60px 20px;
+    line-height: 1.8;
+}
+
+
+
+h1 {
+    color: #f472b6;
+    text-align: center;
+    font-size: 3.2em;
+    margin-top: 35px;
+    margin-bottom: 5px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #c084fc;
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: normal;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    color: #f472b6;
+    border-bottom: 3px double #4c1d95;
+    padding-bottom: 12px;
+    margin-top: 55px;
+    margin-bottom: 22px;
+    font-size: 1.6em;
+    letter-spacing: 1px;
+}
+
+h4 {
+    color: #e879f9;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    font-size: 1.3em;
+}
+
+
+p {
+    color: #cbd5e1;
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #c084fc;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 1px dotted #c084fc;
+}
+
+a:hover {
+    color: #f472b6;
+    border-bottom: 1px solid #f472b6;
+}
+
+
+p.align_cntr {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+p.align_cntr img {
+    border: 5px solid #4c1d95;
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+
+img.member-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #f472b6;
+    padding: 4px;
+    background-color: #1e1b4b;
+    margin-top: 25px;
+}
+
+
+img.album-cover {
+    width: 270px;
+    height: 270px;
+    border-radius: 14px;
+    border: 3px solid #4c1d95;
+    margin: 10px 20px 15px 0;
+    background-color: #1e1b4b;
+}
+
+
+ul {
+    background-color: #16102c;
+    border: 2px solid #4c1d95;
+    border-radius: 16px;
+    padding: 30px 35px 30px 50px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #e2e8f0;
+}
+
+
+ul.discography-list {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+ul.discography-list > li {
+    background-color: #16102c;
+    border: 1px solid #311059;
+    border-left: 8px solid #ec4899;
+    border-radius: 16px;
+    padding: 35px;
+    margin-bottom: 35px;
+}
+
+
+ul.discography-list > li h2 {
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 18px;
+    font-size: 1.7em;
+    font-style: normal;
+    color: #f472b6;
+}
+
+
+ul.discography-list ul {
+    background-color: #0c0916;
+    border: 1px solid #2e1065;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
